@@ -1,16 +1,8 @@
-body {
-  position: relative;
-  width: 100%;
-  height: auto;
-
-  background: #ffffff;
+html {
+  font-size: 62.5%;
 }
 
-div {
-  position: absolute;
+img {
   display: block;
-  width: 100%;
-  height: auto;
-  left: 0px;
-  top: 0px;
+  max-width: 100%;
 }
