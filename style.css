@@ -7,7 +7,7 @@ img {
   max-width: 100%;
 }
 
-div {
+.image {
   background-image: url("../Happy.png");
   -webkit-background-size: cover;
   background-size: cover;
